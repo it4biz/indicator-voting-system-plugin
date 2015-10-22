@@ -13,7 +13,8 @@ The system reads all the Pentaho Indicators (Reports, Dashboards, OLAP Cube View
 
 Dashboard to Vote
 
-Indicator Name        Like or Not      % of the Votes
-Dash 01 
-Dash 02
-Dash 03
+Indicator Name    |    Like or Not   |   % of the Votes
+---------------------------------------------------------
+Dash 01           |                  |
+Dash 02           |                  |
+Dash 03           |                  |
