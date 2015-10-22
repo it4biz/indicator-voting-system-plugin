@@ -8,7 +8,7 @@ The system reads all the Pentaho Indicators (Reports, Dashboards, OLAP Cube View
 * Like or Not
 * Usuability
 * Performance
-* Use (Daily, Weekly, Monthly, Quarter, Semestralmente or Anual)
+* Use (Daily, Weekly, Monthly, Quarter, Semestral or Anual)
 
 
 Dashboard to Vote
